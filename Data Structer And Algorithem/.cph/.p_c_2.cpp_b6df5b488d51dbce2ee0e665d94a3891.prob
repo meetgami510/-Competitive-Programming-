@@ -1,0 +1,1 @@
+{"name":"Local: p_c_2","url":"c:\\Desktop\\Data Structer And Algorithem\\p_c_2.cpp","tests":[{"id":1645728194804,"input":"8    \nxyxzyxyz\n3\n1 3 5","output":"11"},{"id":1645728234928,"input":"12\nabccbaabccba\n1\n6","output":"3"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Desktop\\Data Structer And Algorithem\\p_c_2.cpp","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: cf4","url":"c:\\Desktop\\Commpetitive\\cf4.cpp","tests":[{"id":1652059003905,"input":"5\n10\n1110011000\n8\n11001111\n2\n00\n2\n11\n6\n100110","output":"3\n0\n0\n0\n3"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Desktop\\Commpetitive\\cf4.cpp","group":"local","local":true}

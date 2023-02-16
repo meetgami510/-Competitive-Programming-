@@ -1,0 +1,1 @@
+{"name":"Local: gold","url":"c:\\Desktop\\Data Structer And Algorithem\\gold.cpp","tests":[{"id":1645722061809,"input":"7\n1 2\n1 2 6 4 5 3 4","output":"20"},{"id":1645722132468,"input":"7\n1 1\n6 7 3 4 5 1 3","output":"14"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Desktop\\Data Structer And Algorithem\\gold.cpp","group":"local","local":true}

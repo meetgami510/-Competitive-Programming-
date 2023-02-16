@@ -1,0 +1,1 @@
+{"name":"Local: cd2","url":"c:\\Desktop\\Commpetitive\\cmp1\\cd2.cpp","tests":[{"id":1672153910119,"input":"3\n2\n3\n50","output":"14154\n44484\n171010650\n999589541"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Desktop\\Commpetitive\\cmp1\\cd2.cpp","group":"local","local":true}
